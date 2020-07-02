@@ -9,7 +9,7 @@ const sumAll = function(nmin,nmax) {
   }
   let sum = 0;
   for( let i = nmin ; i <= nmax ; i++){
-    sum+= i
+    sum+= i;
   }
   return sum;
 
